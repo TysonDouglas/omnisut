@@ -1,0 +1,14 @@
+{
+  "name": "omnisut",
+  "author": "CliftonCummerata",
+  "devDependencies": {
+    "lerna": "^2.8.0",
+    "prettier": "1.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TysonDouglas/omnisut.git"
+  },
+  "homepage": "https://github.com/TysonDouglas/omnisut.git",
+  "version": "1.0.0"
+}
